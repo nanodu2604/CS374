@@ -4,5 +4,5 @@ My plan is to make the terminal to add the interval, and expression see if the r
 Just kidding that my code so far cannot do the power and sqrt due to time limit. 🤣🤣🤣
 E.g:
 ```latex
-\exp{2},\sqrt{3}
+$\exp{2},\sqrt{3}$
 ```
